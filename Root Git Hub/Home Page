@@ -1,0 +1,16 @@
+<html>
+<nav>
+    <ul>
+        <li>Home</li>
+        <li><a href = "friends.html">Friends</a></li>
+        <li><a href = "family.html">Family</a></li>
+        <li><a href = "classes.html">classes</a></li>
+    </ul>
+</nav>
+<head> 
+	<Title> This is "The Chronicle's of Philip Thomas's Freshman Year" </Title>
+</head>
+<body>
+<h1> Home </h1>
+</body>
+</html>  
