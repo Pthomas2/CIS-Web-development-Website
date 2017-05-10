@@ -10,6 +10,10 @@ nav{
 	margin-top: 20px;
 	text-align: center;
 }
+nav li:hover, li:active {
+    background-color: rgb(0,0,0);
+    color: (255,255,255);
+}
 h1,h2 {
 	text-align: center;
 }
